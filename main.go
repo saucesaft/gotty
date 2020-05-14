@@ -11,10 +11,10 @@ import (
 
 	"github.com/codegangsta/cli"
 
-	"github.com/yudai/gotty/backend/localcommand"
-	"github.com/yudai/gotty/pkg/homedir"
-	"github.com/yudai/gotty/server"
-	"github.com/yudai/gotty/utils"
+	"github.com/saucesaft/gotty/backend/localcommand"
+	"github.com/saucesaft/gotty/pkg/homedir"
+	"github.com/saucesaft/gotty/server"
+	"github.com/saucesaft/gotty/utils"
 )
 
 func main() {
